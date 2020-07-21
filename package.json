@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "hodejs-chat",
   "main": "server.js",
+  "enginess": {
+    "node": "6.10.2"
+
+  }, 
   "scripts": {
     "start": "node server/server.js",
     "dev": "nodemon server/server.js"
